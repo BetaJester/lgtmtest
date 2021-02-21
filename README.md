@@ -1,0 +1,1 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/BetaJester/lgtmtest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/BetaJester/lgtmtest/alerts/) [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/BetaJester/lgtmtest.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/BetaJester/lgtmtest/context:cpp)
